@@ -1,0 +1,11 @@
+import java.util.Random;
+
+public class Rough {
+	public static void main(String[] args) {
+		Random random = new Random();
+		long seed = 76l;
+		random.setSeed(seed);
+		System.out.println(random.nextInt());
+		System.out.println(random.doubles());
+	}
+}

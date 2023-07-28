@@ -1,0 +1,6 @@
+
+public class Methods {
+	static void divisibleByTwo(int number) {
+		System.out.println((number%2==0?"Number is divisible by two":"Number is not divisble by two"));
+	}
+}
