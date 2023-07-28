@@ -6,7 +6,7 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="SumOfDigits"/>
     <fullyQualifiedTypeName name="ReverseOfDigit"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ArmstrongNumber"/>
     <fullyQualifiedTypeName name="com.kodnest.patterns.level5.Pattern5"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
