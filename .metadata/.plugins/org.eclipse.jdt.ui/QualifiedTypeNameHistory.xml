@@ -3,10 +3,10 @@
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="SumOfDigits"/>
     <fullyQualifiedTypeName name="ReverseOfDigit"/>
     <fullyQualifiedTypeName name="ArmstrongNumber"/>
     <fullyQualifiedTypeName name="com.kodnest.patterns.level5.Pattern5"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
