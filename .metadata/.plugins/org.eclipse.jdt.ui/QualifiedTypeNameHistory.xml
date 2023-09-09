@@ -17,5 +17,14 @@
     <fullyQualifiedTypeName name="com.kodnest.arrays.level5.BubbleSorting"/>
     <fullyQualifiedTypeName name="com.kodnest.arrays.level5.DescendingBubbleSort"/>
     <fullyQualifiedTypeName name="com.kodnest.arrays.level5.InsertionSort"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level1.StringReverse"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level1.StringReverseCase"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level2.RemoveDuplicate"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level2.ReplaceSpace"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level2.Substrings"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level3.FrequencyString"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level3.Anagrams"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kodnest.training.strings.level2.CaseConvertion"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,21 @@
+package com.kodnest.training.strings.level3;
+
+public class FrequencyString {
+	void frequencyOfString(String str) {
+		char ch[] = str.toCharArray();
+		
+		first:for(int i=0;i<ch.length;i++) {
+			int count = 1;
+			if(ch[i]==' ') {
+				 continue first;
+			}
+			for(int j=i+1;j<ch.length;j++) {
+				if(ch[i]==ch[j]) {
+					count++;
+					ch[j]=' ';
+				}
+			}
+			System.out.println(ch[i]+" ==> "+count);
+		}
+	}
+}
