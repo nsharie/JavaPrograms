@@ -41,4 +41,5 @@
     <fullyQualifiedTypeName name="com.kodnest.polymorphism.AnimalKingdom"/>
     <fullyQualifiedTypeName name="com.kodnest.polymorphism.Monkey"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kodnest.Student.Human"/>
 </qualifiedTypeNameHistroy>
