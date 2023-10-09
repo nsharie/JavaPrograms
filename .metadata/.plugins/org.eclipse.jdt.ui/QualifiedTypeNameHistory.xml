@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Character"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="SumOfDigits"/>
     <fullyQualifiedTypeName name="ReverseOfDigit"/>
     <fullyQualifiedTypeName name="ArmstrongNumber"/>
     <fullyQualifiedTypeName name="com.kodnest.patterns.level5.Pattern5"/>
     <fullyQualifiedTypeName name="com.kodnest.arrays.level2.PrintArray"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.kodnest.arrays.level3.MergeArray"/>
     <fullyQualifiedTypeName name="com.kodnest.arrays.level3.SumOfCorrespondingValues"/>
     <fullyQualifiedTypeName name="java.lang.Readable"/>
@@ -25,6 +23,22 @@
     <fullyQualifiedTypeName name="com.kodnest.training.strings.level3.FrequencyString"/>
     <fullyQualifiedTypeName name="com.kodnest.training.strings.level3.Anagrams"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.kodnest.training.strings.level2.CaseConvertion"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="java.beans.ParameterDescriptor"/>
+    <fullyQualifiedTypeName name="com.kodnest.nonPrimitiveArrayAssignment.Student"/>
+    <fullyQualifiedTypeName name="com.kodnest.nonPrimitiveArrayAssignment.StudentSearchSort"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Rectangle"/>
+    <fullyQualifiedTypeName name="Traingle"/>
+    <fullyQualifiedTypeName name="Circle"/>
+    <fullyQualifiedTypeName name="com.kodnest.polymorphism.TIger"/>
+    <fullyQualifiedTypeName name="com.kodnest.polymorphism.Deer"/>
+    <fullyQualifiedTypeName name="com.kodnest.polymorphism.AnimalKingdom"/>
+    <fullyQualifiedTypeName name="com.kodnest.polymorphism.Monkey"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
